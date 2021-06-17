@@ -1,5 +1,9 @@
 Task 1 : Data Quality Assessment
 
+- Data Shape and Data Type
+- Fix Missing — Null — NaN Values
+- Handle Inconsistent Data
+
 The data quality analysis is the core phase and due to errors in the data set, I suggest the following mitigates in order to improve the data quality, which will eventually help us to driven the better analytics, results for your company.
 - We can take a mode year value for the missing records of customers DOB.
 - We can assign a uniform last name of customers, which values are missing.
